@@ -1,0 +1,9 @@
+không có các trạng thái khác sau dữ liệu đầu vào, chương trình xử lí tìm kiếm đường đi tạm được xác định theo static routing.
+Thuật toán đề xuất: dijkstra.
+
+dữ liệu đầu vào: 
+	+ đỉnh nguồn và đỉnh đích, các đỉnh khác trong đồ thị
+	+ ma trận đồ thị mạng. Ma trận cho biết có đường đi giữa đỉnh nào và đỉnh nào, trọng số đường đi là bao nhiêu
+kết quả: 
+	+ như yêu cầu của bài toán.
+
